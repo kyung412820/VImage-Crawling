@@ -12,9 +12,8 @@
  - [개발 환경](#개발-환경)
  - [사용 기술](#사용-기술)
  - [핵심 기능](#핵심-기능)
-   - [Web](#web)
-   - [Deep Learning](#deep-learning)
-   - [Text Mining](#text-mining)
+   - [크롤링](#크롤링)
+   - [javascript 요청](#javascript요청)
  - [Trouble Shooting](#trouble-shooting)
 
 
